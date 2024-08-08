@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(to right, #ff7e5f, #dcc9bb);
+}
+
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+tr:nth-child(even){
+    background-color: aqua;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: white;
+}
